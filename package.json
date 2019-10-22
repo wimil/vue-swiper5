@@ -1,9 +1,14 @@
 {
   "name": "vue-swiper5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Swiper for Vue",
   "main": "src/index.js",
   "private": false,
+  "homepage": "https://github.com/wimil/vue-swiper5#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wimil/vue-swiper5.git"
+  },
   "keywords": [
     "swiperjs",
     "swiperjs for vue",
