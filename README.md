@@ -3,8 +3,6 @@
 
 # Example
 
-[Demo Page](https://surmon-china.github.io/vue-awesome-swiper)
-
 # Install
 #### NPM
 
