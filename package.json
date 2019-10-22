@@ -1,0 +1,35 @@
+{
+  "name": "vue-swiper5",
+  "version": "1.0.0",
+  "description": "Swiper for Vue",
+  "main": "src/index.js",
+  "private": false,
+  "keywords": [
+    "swiperjs",
+    "swiperjs for vue",
+    "vue carrousel",
+    "vue swiper",
+    "vue slide",
+    "carrousel",
+    "swiper"
+  ],
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Wimil",
+    "email": "rldev25@gmail.com",
+    "url": "https://wimil.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "dependencies": {
+    "swiper": "^5.1.0"
+  }
+}
