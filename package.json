@@ -1,6 +1,6 @@
 {
   "name": "vue-swiper5",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Swiper for Vue",
   "main": "src/index.js",
   "private": false,
