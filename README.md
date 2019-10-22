@@ -60,11 +60,6 @@ Swiper.use({
 ```
 
 
-### Difference
-
-**SSR and the only difference in the use of the SPA:**
-- SPA worked by the `component`, find swiper instance by `ref attribute`.
-- Other configurations, events are the same.
 
 ### SPA
 
@@ -155,4 +150,3 @@ Swiper.use({
 # API
 Swiper's API and configuration can be used.
 - [Swiper5 documents](https://swiperjs.com/api/)
-
