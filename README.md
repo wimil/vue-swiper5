@@ -21,7 +21,7 @@ import VueSwiper5 from 'vue-swiper5'
 // require styles
 import 'swiper/css/swiper.css'
 
-Vue.use(VueAwesomeSwiper, /* { default global options } */)
+Vue.use(VueSwiper5, /* { default global options } */)
 ```
 
 #### mount with component
